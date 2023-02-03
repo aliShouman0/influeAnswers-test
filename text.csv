@@ -1,0 +1,1043 @@
+CHAT_DAY,CHAT_HOUR,CHAT_MINUTE,CHAT_SECOND,USERNAME,CHAT_MESSAGE
+2014-06-30,01,33,47,<dbu>,why should web be tightly-coupled to a particular scripting-lang? it shouldn't... https://github.com/deiu/ldpfs should rightly be banished to /dev/null
+2014-06-30,01,34,25,<dbu>,biggest Cimba showstopper seems to be obscure AngularXjs entropy-issues
+2014-06-30,02,05,03,<AAA_awright>,dbu: It shouldn't
+2014-06-30,02,05,36,<AAA_awright>,Anyone who uses <script> without type= should be given an earful
+2014-06-30,02,05,52,<AAA_awright>,"... well, you know"
+2014-06-30,02,15,39,<karlcow>,karlcow has joined #swig
+2014-06-30,02,29,13,<bblfish>,bblfish has joined #swig
+2014-06-30,02,37,50,<bblfish>,bblfish has quit
+2014-06-30,03,19,38,<dbu>,dbu has quit
+2014-06-30,03,20,17,<dbu>,dbu has joined #swig
+2014-06-30,03,32,32,<dbu>,dbu has quit
+2014-06-30,03,32,44,<dbu>,dbu has joined #swig
+2014-06-30,04,01,04,<Jabberz>,Jabberz has quit
+2014-06-30,04,11,51,<o0o0o>,o0o0o has quit
+2014-06-30,04,25,08,<bblfish>,bblfish has joined #swig
+2014-06-30,04,27,03,<bblfish>,bblfish has quit
+2014-06-30,04,27,37,<bblfish>,bblfish has joined #swig
+2014-06-30,04,29,20,<gavinc_>,gavinc_ has quit
+2014-06-30,04,32,11,<bblfish>,bblfish has quit
+2014-06-30,04,58,06,<bblfish>,bblfish has joined #swig
+2014-06-30,05,04,15,<bblfish>,bblfish has quit
+2014-06-30,06,06,11,<bblfish>,bblfish has joined #swig
+2014-06-30,06,48,21,<eelseth-stdin>,eelseth-stdin has quit
+2014-06-30,06,48,34,<eelseth-stdin>,eelseth-stdin has joined #swig
+2014-06-30,06,48,37,<eelseth-stdin>,eelseth-stdin has quit
+2014-06-30,07,00,39,<nicktick>,nicktick has joined #swig
+2014-06-30,07,23,00,<libby>,libby has joined #swig
+2014-06-30,07,53,32,<MrWoohoo>,MrWoohoo has joined #swig
+2014-06-30,07,59,21,<ephemerian>,ephemerian has joined #swig
+2014-06-30,07,59,26,<jmvanel>,jmvanel has quit
+2014-06-30,08,06,43,<mischat>,mischat has joined #swig
+2014-06-30,08,25,43,<Arnia>,Arnia has joined #swig
+2014-06-30,08,27,42,<Arnia>,Arnia has quit
+2014-06-30,08,46,06,<jmvanel>,jmvanel has joined #swig
+2014-06-30,08,51,33,<nevali>,nevali has joined #swig
+2014-06-30,08,51,57,<shellac>,shellac has joined #swig
+2014-06-30,09,02,11,<Bestial_Twelve>,Bestial_Twelve is now known as dat_eye_socket
+2014-06-30,09,07,06,<gurke>,gurke has quit
+2014-06-30,09,13,27,<gurke>,gurke has joined #swig
+2014-06-30,09,13,27,<gurke>,gurke has quit
+2014-06-30,09,13,27,<gurke>,gurke has joined #swig
+2014-06-30,09,24,44,<nicktick>,nicktick has quit
+2014-06-30,09,38,26,<gurke>,gurke has quit
+2014-06-30,09,49,47,<gurke>,gurke has joined #swig
+2014-06-30,10,04,52,<gurke>,gurke has quit
+2014-06-30,10,40,29,<libby>,libby has quit
+2014-06-30,10,41,37,<dsheets>,dsheets has joined #swig
+2014-06-30,10,50,22,<kwijibo>,kwijibo has joined #swig
+2014-06-30,10,56,40,<bblfish>,bblfish has quit
+2014-06-30,10,57,13,<bblfish>,bblfish has joined #swig
+2014-06-30,11,01,47,<nicktick>,nicktick has joined #swig
+2014-06-30,11,01,50,<nicktick>,nicktick has quit
+2014-06-30,11,01,50,<nicktick>,nicktick has joined #swig
+2014-06-30,11,01,53,<bblfish>,bblfish has quit
+2014-06-30,11,25,52,<libby>,libby has joined #swig
+2014-06-30,11,45,39,<lmatteis>,lmatteis has joined #swig
+2014-06-30,11,48,18,<mischat>,mischat has quit
+2014-06-30,11,59,16,<mischat>,mischat has joined #swig
+2014-06-30,11,59,56,<rszeno>,rszeno has joined #swig
+2014-06-30,12,28,28,<timbl>,timbl has joined #swig
+2014-06-30,12,39,23,<libby>,libby has quit
+2014-06-30,12,43,56,<libby>,libby has joined #swig
+2014-06-30,12,50,32,<betehess>,betehess has joined #swig
+2014-06-30,13,07,01,<nicktick1>,nicktick1 has joined #swig
+2014-06-30,13,09,01,<nicktick>,nicktick has quit
+2014-06-30,13,13,31,<TallTed>,TallTed has joined #swig
+2014-06-30,13,23,50,<deiu>,deiu has joined #swig
+2014-06-30,13,30,59,<Sebastien-L>,Sebastien-L has joined #swig
+2014-06-30,13,41,12,<rszeno>,rszeno has quit
+2014-06-30,13,47,43,<timbl>,timbl has quit
+2014-06-30,13,56,21,<bblfish>,bblfish has joined #swig
+2014-06-30,14,02,37,<timbl>,timbl has joined #swig
+2014-06-30,14,04,11,<mischat>,mischat has quit
+2014-06-30,14,06,16,<mischat>,mischat has joined #swig
+2014-06-30,14,19,10,<DanC>,DanC has quit
+2014-06-30,14,21,17,<DanC>,DanC has joined #swig
+2014-06-30,14,35,13,<libby>,libby has quit
+2014-06-30,14,50,49,<njero>,njero has joined #swig
+2014-06-30,15,07,23,<timbl>,timbl has quit
+2014-06-30,15,16,03,<bblfish>,bblfish has quit
+2014-06-30,15,16,49,<bblfish>,bblfish has joined #swig
+2014-06-30,15,16,50,<bblfish>,bblfish has quit
+2014-06-30,15,17,04,<bblfish>,bblfish has joined #swig
+2014-06-30,15,20,10,<libby>,libby has joined #swig
+2014-06-30,15,21,32,<lmatteis>,lmatteis has quit
+2014-06-30,15,29,52,<timbl>,timbl has joined #swig
+2014-06-30,15,41,53,<nicktick1>,nicktick1 has quit
+2014-06-30,15,44,17,<njero>,njero has quit
+2014-06-30,15,48,17,<njero_>,njero_ has joined #swig
+2014-06-30,15,48,58,<timbl>,timbl has quit
+2014-06-30,15,57,34,<Sebastien-L>,Sebastien-L has quit
+2014-06-30,16,00,53,<bblfish>,bblfish has quit
+2014-06-30,16,01,29,<bblfish>,bblfish has joined #swig
+2014-06-30,16,04,53,<bblfish>,bblfish has quit
+2014-06-30,16,05,08,<Sebastien-L>,Sebastien-L has joined #swig
+2014-06-30,16,05,09,<bblfish>,bblfish has joined #swig
+2014-06-30,16,24,45,<jmvanel>,jmvanel has quit
+2014-06-30,16,38,32,<jmvanel>,jmvanel has joined #swig
+2014-06-30,16,38,49,<timbl>,timbl has joined #swig
+2014-06-30,17,00,03,<deiu>,deiu has quit
+2014-06-30,17,05,27,<Sebastien-L>,Sebastien-L has quit
+2014-06-30,17,05,51,<kwijibo>,kwijibo has quit
+2014-06-30,17,08,36,<timbl>,timbl has quit
+2014-06-30,17,12,43,<shellac>,shellac has quit
+2014-06-30,17,12,53,<hybrid>,hybrid has joined #swig
+2014-06-30,17,15,13,<deiu>,deiu has joined #swig
+2014-06-30,17,15,14,<deiu>,deiu has quit
+2014-06-30,17,15,14,<deiu>,deiu has joined #swig
+2014-06-30,17,19,37,<mischat>,mischat has quit
+2014-06-30,17,22,58,<mischat>,mischat has joined #swig
+2014-06-30,17,45,07,<bblfish>,bblfish has quit
+2014-06-30,17,45,40,<bblfish>,bblfish has joined #swig
+2014-06-30,17,45,58,<bblfish>,bblfish has quit
+2014-06-30,17,46,14,<bblfish>,bblfish has joined #swig
+2014-06-30,17,46,25,<libby>,libby has quit
+2014-06-30,17,47,56,<timbl>,timbl has joined #swig
+2014-06-30,17,48,24,<libby>,libby has joined #swig
+2014-06-30,17,49,50,<libby>,libby has quit
+2014-06-30,17,51,01,<mischat_>,mischat_ has joined #swig
+2014-06-30,17,53,27,<mischat>,mischat has quit
+2014-06-30,17,55,17,<bblfish>,bblfish has quit
+2014-06-30,17,59,23,<dsheets>,dsheets has quit
+2014-06-30,18,00,40,<mischat_>,mischat_ has quit
+2014-06-30,18,09,13,<monokrome>,monokrome has quit
+2014-06-30,18,09,26,<monokrome>,monokrome has joined #swig
+2014-06-30,18,09,33,<monokrome>,monokrome has quit
+2014-06-30,18,09,59,<monokrome>,monokrome has joined #swig
+2014-06-30,18,49,49,<bblfish>,bblfish has joined #swig
+2014-06-30,18,54,10,<jmvanel>,jmvanel has quit
+2014-06-30,18,54,57,<digikim>,digikim has quit
+2014-06-30,18,55,13,<digikim>,digikim has joined #swig
+2014-06-30,19,08,59,<kwijibo>,kwijibo has joined #swig
+2014-06-30,19,10,59,<rszeno>,rszeno has joined #swig
+2014-06-30,19,29,21,<bblfish>,bblfish has quit
+2014-06-30,19,29,55,<bblfish>,bblfish has joined #swig
+2014-06-30,19,34,46,<bblfish>,bblfish has quit
+2014-06-30,19,35,59,<bblfish>,bblfish has joined #swig
+2014-06-30,19,43,06,<mischat>,mischat has joined #swig
+2014-06-30,20,12,31,<hybrid>,hybrid has quit
+2014-06-30,20,34,38,<AAA_awright>,AAA_awright has quit
+2014-06-30,20,46,53,<bblfish>,bblfish has quit
+2014-06-30,20,47,35,<bblfish>,bblfish has joined #swig
+2014-06-30,20,48,01,<Phae_>,Phae_ is now known as Phae
+2014-06-30,20,50,00,<AAA_awright>,AAA_awright has joined #swig
+2014-06-30,20,51,32,<kwijibo>,kwijibo has quit
+2014-06-30,20,51,52,<bblfish>,bblfish has quit
+2014-06-30,20,51,58,<AAA_awright>,AAA_awright has quit
+2014-06-30,20,57,22,<njero_>,njero_ has quit
+2014-06-30,21,00,39,<TallTed>,TallTed has quit
+2014-06-30,21,01,08,<jmvanel>,jmvanel has joined #swig
+2014-06-30,21,03,57,<deiu>,deiu has quit
+2014-06-30,21,04,36,<njero>,njero has joined #swig
+2014-06-30,21,04,59,<jmvanel>,jmvanel has quit
+2014-06-30,21,12,23,<timbl>,timbl has quit
+2014-06-30,21,18,10,<bblfish>,bblfish has joined #swig
+2014-06-30,21,18,34,<RusAlex>,RusAlex has quit
+2014-06-30,21,19,10,<deiu>,deiu has joined #swig
+2014-06-30,21,19,11,<deiu>,deiu has quit
+2014-06-30,21,19,11,<deiu>,deiu has joined #swig
+2014-06-30,21,19,47,<timbl>,timbl has joined #swig
+2014-06-30,21,23,43,<bblfish>,bblfish has quit
+2014-06-30,21,27,54,<rszeno1>,rszeno1 has joined #swig
+2014-06-30,21,28,26,<njh_>,njh_ has joined #swig
+2014-06-30,21,28,41,<DanC__>,DanC__ has joined #swig
+2014-06-30,21,30,03,<dc_swig>,dc_swig has joined #swig
+2014-06-30,21,31,20,<RusAlex>,RusAlex has joined #swig
+2014-06-30,21,33,31,<rszeno>,rszeno has quit
+2014-06-30,21,34,55,<njh>,njh has quit
+2014-06-30,21,34,56,<DanC>,DanC has quit
+2014-06-30,21,34,58,<drewp>,drewp has quit
+2014-06-30,21,34,58,<dc_swig_>,dc_swig_ has quit
+2014-06-30,21,34,59,<njh_>,njh_ is now known as njh
+2014-06-30,21,35,00,<njh>,njh has quit
+2014-06-30,21,35,00,<njh>,njh has joined #swig
+2014-06-30,21,38,22,<drewp>,drewp has joined #swig
+2014-06-30,21,40,17,<deiu>,deiu has quit
+2014-06-30,21,55,07,<porton>,porton has joined #swig
+2014-06-30,21,55,38,<porton>,I write a new specification based on RDF. Which of RDF serialization formats should be RDF examples be in?
+2014-06-30,21,56,05,<porton>,Currently all my examples are in RDF/XML. Should I rewrite into an other format?
+2014-06-30,21,56,32,<warp>,porton: I expect that depends on your audience :)
+2014-06-30,21,57,08,<porton>,warp: The audience is programmers of various levels (both implementers and users of my system should be able to program)
+2014-06-30,21,57,31,<warp>,"porton: I personally prefer turtle or json-ld, but that's just because I am more familiar with those."
+2014-06-30,21,58,13,<porton>,"warp: Honestly, I know only RDF/XML. I can study other formats, but don't know whether it's worth. Are there advantages of turtle or json-ld?"
+2014-06-30,21,58,25,<porton>,"By the way, this is my project: http://freesoft.portonvictor.org/namespaces.xml"
+2014-06-30,21,58,41,<warp>,"porton: right, I don't mean just the programmers working with your system, but also the tools they use.  If someone has a setup where they are already dealing with RDF/XML from other sources, obviously working with RDF/XML will be convenient for them."
+2014-06-30,21,59,44,<porton>,warp: Only developers of my system (currently myself) need to parse RDF. Ordinary users of my system however need to write RDF
+2014-06-30,21,59,46,<warp>,porton: especially for documentation I think turtle is more readable for readers who are familiar with RDF.  json-ld may be easier for readers familiar with json and not familiar with RDF.
+2014-06-30,22,01,08,<Anchakor>,"porton: most people really dislike rdf/xml, and prefer turtle"
+2014-06-30,22,01,21,<porton>,"warp: So, is your advise to rewrite all examples in Turtle?"
+2014-06-30,22,01,59,<porton>,Does Turtle has rdf:Seq support?
+2014-06-30,22,02,45,<porton>,"By the way, are there other widespread RDF parsing tools except of librdf?"
+2014-06-30,22,02,48,<Anchakor>,all rdf serializations support all of rdf
+2014-06-30,22,03,25,<porton>,Should I learn only Turtle? Any other useful formats?
+2014-06-30,22,04,16,<warp>,"porton: I think you should at least look into what JSON-LD is, it's getting fairly popular.  Even if you don't end up using it is valuable to know about it :)"
+2014-06-30,22,05,17,<Anchakor>,best would be if you had something like the owl primer document has - option to toggle visibility of various syntaxes
+2014-06-30,22,05,37,<porton>,warp: I don't see any advantages of JSON-LD for me
+2014-06-30,22,05,45,<porton>,Anchakor: How is it done? with JS?
+2014-06-30,22,05,46,<tobyink_>,Anchakor: actually not all RDF statements can be represented in RDF/XML.
+2014-06-30,22,05,56,<Anchakor>,porton: http://www.w3.org/TR/owl2-primer/#OWL_Syntaxes
+2014-06-30,22,06,08,<tobyink_>,<http://example.com/1> <http://example.com/2> <http://example.com/3> .
+2014-06-30,22,06,14,<porton>,tobyink_: I thought all can be represented in RDF/XML. Please a counterexample
+2014-06-30,22,06,15,<Anchakor>,yes js
+2014-06-30,22,06,37,<timbl>,timbl has quit
+2014-06-30,22,06,50,<Anchakor>,"tobyink_: yeah, but that confuses new people ;)"
+2014-06-30,22,06,53,<tobyink_>,porton: The example above. The predicate URI <http://example.com/2> cannot be represented as an XML qname.
+2014-06-30,22,07,25,<porton>,"tobyink_: Sorry, I'm confused. Why can't it be represented?"
+2014-06-30,22,07,46,<porton>,tobyink_: gotcha
+2014-06-30,22,08,14,<tobyink_>,"<ex:2 ex:xmlns=""http://example.com/"">"
+2014-06-30,22,08,25,<porton>,Is it a good practice to write only RDF representable in RDF/XML?
+2014-06-30,22,08,33,<tobyink_>,"But oops, ""ex:2"" is not valid according to XML namespaces."
+2014-06-30,22,09,31,<tobyink_>,Generally speaking people avoid creating vocabularies/ontologies/schemas/whatever-we're-calling-them-this-week that include terms which cannot be legally represented in RDF/XML.
+2014-06-30,22,09,32,<porton>,"By the way, what the community thinks about my project? http://freesoft.portonvictor.org/namespaces.xml"
+2014-06-30,22,18,40,<bblfish>,bblfish has joined #swig
+2014-06-30,22,20,28,<porton>,Nobody interested in my specification?
+2014-06-30,22,22,54,<bblfish>,bblfish has quit
+2014-06-30,22,29,11,<rszeno1>,rszeno1 has quit
+2014-06-30,22,29,32,<rszeno>,rszeno has joined #swig
+2014-06-30,22,40,06,<karlcow>,karlcow has quit
+2014-06-30,22,40,17,<karlcow>,karlcow has joined #swig
+2014-06-30,22,47,35,<porton>,porton has quit
+2014-06-30,22,51,55,<mischat>,mischat has quit
+2014-06-30,22,53,19,<karlcow>,karlcow has quit
+2014-06-30,22,53,19,<nicktick>,nicktick has joined #swig
+2014-06-30,22,59,11,<rszeno>,rszeno has quit
+2014-06-30,23,07,38,<nicktick>,nicktick has quit
+2014-06-30,23,11,58,<RusAlex>,RusAlex has quit
+2014-06-30,23,16,09,<ephemerian>,ephemerian has quit
+2014-06-30,23,54,55,<RusAlex>,RusAlex has joined #swig
+2014-06-29,00,00,35,<gavinc_>,gavinc_ has joined #swig
+2014-06-29,00,02,05,<dbs>,dbs has joined #swig
+2014-06-29,00,02,25,<karstensrage_>,karstensrage_ has joined #swig
+2014-06-29,00,02,55,<gavinc>,gavinc has quit
+2014-06-29,00,02,55,<karstensrage>,karstensrage has quit
+2014-06-29,00,03,07,<gniourf>,gniourf has quit
+2014-06-29,00,03,07,<dbs_>,dbs_ has quit
+2014-06-29,00,03,07,<Phae>,Phae has quit
+2014-06-29,00,03,08,<rodgort>,rodgort has quit
+2014-06-29,00,03,09,<Phae_>,Phae_ has joined #swig
+2014-06-29,00,04,43,<dajobe->,dajobe- has joined #swig
+2014-06-29,00,05,13,<sivoais_>,sivoais_ has joined #swig
+2014-06-29,00,05,24,<ktkNA_>,ktkNA_ has joined #swig
+2014-06-29,00,06,07,<sivoais>,sivoais has quit
+2014-06-29,00,06,07,<ktkNA>,ktkNA has quit
+2014-06-29,00,06,07,<dajobe>,dajobe has quit
+2014-06-29,00,06,37,<dajobe->,dajobe- is now known as dajobe
+2014-06-29,00,06,38,<gniourf>,gniourf has joined #swig
+2014-06-29,00,07,33,<dmiles>,dmiles has joined #swig
+2014-06-29,00,07,48,<Pipian_>,Pipian_ has joined #swig
+2014-06-29,00,07,59,<bblfish>,bblfish has joined #swig
+2014-06-29,00,08,20,<iwaim___>,iwaim___ has joined #swig
+2014-06-29,00,08,37,<sivoais_>,sivoais_ is now known as sivoais
+2014-06-29,00,08,42,<sivoais>,sivoais has quit
+2014-06-29,00,08,42,<sivoais>,sivoais has joined #swig
+2014-06-29,00,08,46,<Pipian>,Pipian has quit
+2014-06-29,00,08,46,<dmiles_afk>,dmiles_afk has quit
+2014-06-29,00,08,46,<iwaim>,iwaim has quit
+2014-06-29,00,08,47,<Pipian_>,Pipian_ is now known as Pipian
+2014-06-29,00,09,45,<rodgort>,rodgort has joined #swig
+2014-06-29,00,12,38,<bblfish>,bblfish has quit
+2014-06-29,00,17,12,<uranther>,uranther has quit
+2014-06-29,00,17,27,<FlashingFire>,FlashingFire has joined #swig
+2014-06-29,00,19,36,<uranther>,uranther has joined #swig
+2014-06-29,00,22,43,<nevali>,nevali has quit
+2014-06-29,00,22,44,<Pipian>,Pipian has quit
+2014-06-29,00,23,09,<o0o0o>,o0o0o has quit
+2014-06-29,00,24,55,<o0o0o>,o0o0o has joined #swig
+2014-06-29,00,28,47,<BoerFranz>,BoerFranz has joined #swig
+2014-06-29,00,30,49,<drrho_>,drrho_ has joined #swig
+2014-06-29,00,30,51,<sandro->,sandro- has joined #swig
+2014-06-29,00,31,27,<Yudai____>,Yudai____ has joined #swig
+2014-06-29,00,31,41,<stillLotR>,stillLotR has joined #swig
+2014-06-29,00,32,05,<tobyink_>,tobyink_ has joined #swig
+2014-06-29,00,32,54,<ktkNA>,ktkNA has joined #swig
+2014-06-29,00,35,15,<stain>,stain has joined #swig
+2014-06-29,00,36,32,<ktkNA_>,ktkNA_ has quit
+2014-06-29,00,36,33,<stain_>,stain_ has quit
+2014-06-29,00,36,34,<Yudai___>,Yudai___ has quit
+2014-06-29,00,36,35,<drrho>,drrho has quit
+2014-06-29,00,36,35,<Cpt_Homoerotica>,Cpt_Homoerotica has quit
+2014-06-29,00,36,36,<sandro>,sandro has quit
+2014-06-29,00,36,36,<kasei>,kasei has quit
+2014-06-29,00,36,37,<tobyink>,tobyink has quit
+2014-06-29,00,36,37,<LotR>,LotR has quit
+2014-06-29,00,36,37,<kasei_>,kasei_ has joined #swig
+2014-06-29,00,36,46,<sandro->,sandro- is now known as sandro
+2014-06-29,00,40,10,<MrWoohoo>,MrWoohoo has joined #swig
+2014-06-29,00,45,02,<bblfish>,bblfish has joined #swig
+2014-06-29,00,50,08,<bblfish>,bblfish has quit
+2014-06-29,01,04,54,<karstensrage_>,karstensrage_ is now known as karstensrage
+2014-06-29,01,05,05,<karstensrage>,karstensrage has quit
+2014-06-29,01,05,05,<karstensrage>,karstensrage has joined #swig
+2014-06-29,01,12,25,<Jabberz>,Jabberz has joined #swig
+2014-06-29,01,26,50,<bblfish>,bblfish has joined #swig
+2014-06-29,01,31,27,<bblfish>,bblfish has quit
+2014-06-29,01,47,10,<MrWoohoo>,MrWoohoo has quit
+2014-06-29,02,27,50,<bblfish>,bblfish has joined #swig
+2014-06-29,02,32,24,<bblfish>,bblfish has quit
+2014-06-29,03,28,15,<bblfish>,bblfish has joined #swig
+2014-06-29,03,32,42,<bblfish>,bblfish has quit
+2014-06-29,03,59,37,<dbs>,dbs has quit
+2014-06-29,04,00,29,<dbs>,dbs has joined #swig
+2014-06-29,04,16,16,<Jabberz>,Jabberz has quit
+2014-06-29,04,22,09,<FlashingFire>,FlashingFire has quit
+2014-06-29,04,25,11,<bblfish>,bblfish has joined #swig
+2014-06-29,04,27,07,<bblfish>,bblfish has quit
+2014-06-29,04,27,33,<bblfish>,bblfish has joined #swig
+2014-06-29,04,31,49,<bblfish>,bblfish has quit
+2014-06-29,04,38,21,<fr33domlover>,fr33domlover has quit
+2014-06-29,04,39,06,<fr33domlover>,fr33domlover has joined #swig
+2014-06-29,04,53,39,<FlashingFire>,FlashingFire has joined #swig
+2014-06-29,04,58,07,<bblfish>,bblfish has joined #swig
+2014-06-29,05,03,20,<bblfish>,bblfish has quit
+2014-06-29,05,15,26,<bblfish>,bblfish has joined #swig
+2014-06-29,05,24,52,<o0o0o>,o0o0o has quit
+2014-06-29,05,36,25,<o0o0o>,o0o0o has joined #swig
+2014-06-29,06,02,42,<FlashingFire1>,FlashingFire1 has joined #swig
+2014-06-29,06,03,17,<FlashingFire1>,FlashingFire1 has quit
+2014-06-29,06,04,00,<FlashingFire>,FlashingFire has quit
+2014-06-29,07,38,08,<Phae_>,Phae_ has quit
+2014-06-29,07,38,09,<Phae_>,Phae_ has joined #swig
+2014-06-29,07,38,36,<uranther>,uranther has quit
+2014-06-29,07,38,36,<uranther>,uranther has joined #swig
+2014-06-29,07,56,49,<MrWoohoo>,MrWoohoo has joined #swig
+2014-06-29,09,02,45,<bblfish>,bblfish has quit
+2014-06-29,09,03,09,<bblfish>,bblfish has joined #swig
+2014-06-29,09,04,33,<bblfish>,bblfish has quit
+2014-06-29,09,04,39,<bblfish>,bblfish has joined #swig
+2014-06-29,09,31,23,<danja>,danja has joined #swig
+2014-06-29,09,44,15,<KjetilK>,KjetilK has joined #swig
+2014-06-29,09,55,56,<BoerFranz>,BoerFranz is now known as Bestial_Twelve
+2014-06-29,10,03,51,<uranther_>,uranther_ has joined #swig
+2014-06-29,10,08,12,<uranther>,uranther has quit
+2014-06-29,10,08,35,<uranther_>,uranther_ is now known as uranther
+2014-06-29,10,28,14,<danja>,danja has quit
+2014-06-29,10,28,41,<danja>,danja has joined #swig
+2014-06-29,10,29,00,<danja>,* danja waves
+2014-06-29,10,30,52,<danja>,"so, I read the RDF 1.1 rough spec about a year ago, is there anything I need to know?"
+2014-06-29,10,31,01,<rodgort>,rodgort has quit
+2014-06-29,10,32,53,<danja>,"timbl, what advice would you give to other implementers of the www spec, from Mars"
+2014-06-29,10,33,35,<rodgort>,rodgort has joined #swig
+2014-06-29,10,33,40,<danja>,that should be radio 4
+2014-06-29,10,48,10,<mischat>,mischat has joined #swig
+2014-06-29,11,02,21,<mischat>,mischat has quit
+2014-06-29,11,56,50,<danja>,danja has quit
+2014-06-29,12,22,27,<dbu>,did you read all 7 new HTTP RFCs
+2014-06-29,12,26,08,<bblfish>,bblfish has quit
+2014-06-29,12,26,10,<dbu>,"and Hyrda, LDP, LD-PATCH, CSVw, every vocab tussle on schema?"
+2014-06-29,12,26,38,<bblfish>,bblfish has joined #swig
+2014-06-29,12,27,03,<dbu>,can fuseki present a functional write-acceptint back3nd for Cimba/Kima/noJSDSN
+2014-06-29,12,29,08,<danbri>,danbri has joined #swig
+2014-06-29,12,31,10,<bblfish>,bblfish has quit
+2014-06-29,12,39,14,<bblfish>,bblfish has joined #swig
+2014-06-29,13,11,58,<bblfish>,bblfish has quit
+2014-06-29,13,12,26,<bblfish>,bblfish has joined #swig
+2014-06-29,13,16,37,<bblfish>,bblfish has quit
+2014-06-29,14,01,56,<bblfish>,bblfish has joined #swig
+2014-06-29,14,06,14,<bblfish>,bblfish has quit
+2014-06-29,14,09,31,<ormaaj>,ormaaj has quit
+2014-06-29,14,26,34,<bblfish>,bblfish has joined #swig
+2014-06-29,14,31,02,<bblfish>,bblfish has quit
+2014-06-29,15,26,38,<bblfish>,bblfish has joined #swig
+2014-06-29,15,30,55,<bblfish>,bblfish has quit
+2014-06-29,15,40,03,<dsheets>,dsheets has joined #swig
+2014-06-29,15,45,07,<Jabberz>,Jabberz has joined #swig
+2014-06-29,16,11,54,<Anchakor_>,Anchakor_ has joined #swig
+2014-06-29,16,16,05,<bblfish>,bblfish has joined #swig
+2014-06-29,16,45,47,<mischat>,mischat has joined #swig
+2014-06-29,16,50,58,<mischat>,mischat has quit
+2014-06-29,16,53,10,<mischat>,mischat has joined #swig
+2014-06-29,17,22,42,<bblfish>,bblfish has quit
+2014-06-29,17,23,22,<bblfish>,bblfish has joined #swig
+2014-06-29,17,27,39,<bblfish>,bblfish has quit
+2014-06-29,17,30,04,<bblfish>,bblfish has joined #swig
+2014-06-29,17,43,29,<bblfish>,bblfish has quit
+2014-06-29,17,43,59,<bblfish>,bblfish has joined #swig
+2014-06-29,17,44,45,<FlashingFire>,FlashingFire has joined #swig
+2014-06-29,17,48,32,<bblfish>,bblfish has quit
+2014-06-29,17,51,59,<danbri>,danbri has quit
+2014-06-29,18,03,01,<jmvanel>,jmvanel has joined #swig
+2014-06-29,18,14,30,<bblfish>,bblfish has joined #swig
+2014-06-29,18,14,43,<bblfish>,bblfish has quit
+2014-06-29,18,14,49,<bblfish>,bblfish has joined #swig
+2014-06-29,18,30,17,<danbri>,danbri has joined #swig
+2014-06-29,18,34,59,<danbri>,danbri has quit
+2014-06-29,18,59,08,<drrho_>,drrho_ has quit
+2014-06-29,19,11,42,<drrho_>,drrho_ has joined #swig
+2014-06-29,19,18,02,<dsheets>,dsheets has quit
+2014-06-29,19,26,09,<MrWoohoo>,MrWoohoo has quit
+2014-06-29,19,51,59,<stefan-_>,stefan-_ has joined #swig
+2014-06-29,20,08,04,<FlashingFire1>,FlashingFire1 has joined #swig
+2014-06-29,20,08,24,<bblfish_>,bblfish_ has joined #swig
+2014-06-29,20,16,41,<FlashingFire>,FlashingFire has quit
+2014-06-29,20,16,42,<bblfish>,bblfish has quit
+2014-06-29,20,23,49,<sessi>,sessi has joined #swig
+2014-06-29,20,23,53,<ww_>,ww_ has joined #swig
+2014-06-29,20,23,57,<simeoni>,simeoni has quit
+2014-06-29,20,23,57,<ww>,ww has quit
+2014-06-29,20,23,59,<sessi>,sessi is now known as simeoni
+2014-06-29,20,26,05,<stain_>,stain_ has joined #swig
+2014-06-29,20,28,18,<gurke>,gurke has quit
+2014-06-29,20,28,36,<stain>,stain has quit
+2014-06-29,20,28,39,<sandro>,sandro has quit
+2014-06-29,20,28,40,<bblfish_>,bblfish_ has quit
+2014-06-29,20,29,09,<bblfish>,bblfish has joined #swig
+2014-06-29,20,29,15,<dmiles>,dmiles has quit
+2014-06-29,20,29,22,<sandro>,sandro has joined #swig
+2014-06-29,20,29,47,<dmiles_afk>,dmiles_afk has joined #swig
+2014-06-29,20,30,53,<gurke>,gurke has joined #swig
+2014-06-29,20,30,53,<gurke>,gurke has quit
+2014-06-29,20,30,53,<gurke>,gurke has joined #swig
+2014-06-29,20,31,59,<zama>,zama has quit
+2014-06-29,20,32,34,<bblfish>,bblfish has quit
+2014-06-29,20,32,42,<bblfish>,bblfish has joined #swig
+2014-06-29,20,33,19,<zama>,zama has joined #swig
+2014-06-29,20,55,52,<stefan-_>,stefan-_ has quit
+2014-06-29,21,06,47,<sandro>,sandro has quit
+2014-06-29,21,20,55,<lmatteis>,lmatteis has joined #swig
+2014-06-29,21,22,58,<sandro>,sandro has joined #swig
+2014-06-29,21,31,16,<dbu>,dbu has quit
+2014-06-29,21,33,05,<dbu>,dbu has joined #swig
+2014-06-29,21,44,15,<kasei_>,kasei_ is now known as kasei
+2014-06-29,21,46,34,<rszeno>,rszeno has joined #swig
+2014-06-29,21,55,10,<karlcow>,karlcow has quit
+2014-06-29,22,00,58,<rszeno>,rszeno has quit
+2014-06-29,23,01,01,<bblfish>,bblfish has quit
+2014-06-29,23,01,27,<bblfish>,bblfish has joined #swig
+2014-06-29,23,06,38,<bblfish>,bblfish has quit
+2014-06-29,23,13,22,<mischat>,mischat has quit
+2014-06-29,23,32,39,<FlashingFire1>,FlashingFire1 has left #swig
+2014-06-29,23,51,26,<lmatteis>,lmatteis has quit
+2014-06-28,01,19,27,<DanC_>,* DanC_ waves to FlashingFire1
+2014-06-28,01,20,00,<DanC_>,I can hardly stand Eclipse. it doesn't know about http://www.w3.org/wiki/IntegrityIsJobOne
+2014-06-28,01,20,37,<DanC_>,* DanC_ grabs http://www.jetbrains.com/idea/download/download_thanks.jsp community edition...
+2014-06-28,01,23,21,<DanC_>,hmm... looks like I installed idea-IC-132.325 a while ago
+2014-06-28,01,24,26,<DanC_>,* DanC_ considers http://confluence.jetbrains.com/display/IDEADEV/IDEA+14+EAP ... passes
+2014-06-28,01,26,44,<butter>,the in-browser IDE ppl aren't sleeping
+2014-06-28,01,28,38,<butter>,"until i buy a >2006- laptop, w3m.el in emacs is still multitudes faster than expecting something in firepig to work right. let alone w/o connectivity to ""phone home"" to github or bespun/skywriter/c9.io servers"
+2014-06-28,01,29,12,<butter>, https://mozillalabs.com/en-US/skywriter/  https://atom.io/
+2014-06-28,01,32,19,<butter>,"always hear from mother when Outlook-Web completely nukes messages on 'save' or 'send' and they appear neither in drafts or sent. so installed some obsessive-caching-in-LocalStorage <form> field plugin to firefox, which naturally got disabled by some corporate-initiated wiping or version-upgrade-plugin-disabling after a month or two"
+2014-06-28,01,32,32,<butter>,notepad.exe/vi have a long life ahead of them...
+2014-06-28,01,38,01,<MrWoohoo>,MrWoohoo has quit
+2014-06-28,02,00,54,<DanC_>,ideaIC-13.1.3.tar.gz
+2014-06-28,02,06,01,<DanC_>,"* DanC_ disables old scala, SBT plugins... gets fresh ones..."
+2014-06-28,02,11,54,<mus1cb0x>,any swig devs around?
+2014-06-28,02,12,17,<mus1cb0x>,the decision to use { sucks i think because it changes my standard html into 'not html'
+2014-06-28,02,12,34,<mus1cb0x>,why didn't the swig devs use <?
+2014-06-28,02,12,46,<mus1cb0x>,{% block content %}
+2014-06-28,02,12,56,<mus1cb0x>,<% block content %>
+2014-06-28,02,12,59,<mus1cb0x>,still valid html
+2014-06-28,02,34,48,<karlcow>,karlcow has quit
+2014-06-28,02,55,43,<FlashingFire1>,hm
+2014-06-28,02,55,49,<FlashingFire1>,notifications didn't work
+2014-06-28,02,57,12,<AAA_awright>,mus1cb0x: Semantic Web Interest Group swig?
+2014-06-28,02,57,24,<FlashingFire1>,DanC did you settle on a scala link?
+2014-06-28,02,57,53,<DanC_>,well...
+2014-06-28,02,58,06,<DanC_>,I'm still struggling to write a tiny program to fetch a web page using http://dispatch.databinder.net/Dispatch.html
+2014-06-28,02,58,30,<DanC_>,"actually, I can write the program; I just can't get this IDE (intellij) to grok the build.sbt file"
+2014-06-28,02,59,05,<FlashingFire1>,You lost me with that last bit
+2014-06-28,02,59,17,<mus1cb0x>,"AAA_awright: er yea wrong chan, sorry"
+2014-06-28,02,59,53,<mus1cb0x>,mus1cb0x has left #swig
+2014-06-28,03,09,00,<DanC_>,IntelliJ is what I'm using instead of Eclipse
+2014-06-28,03,09,23,<DanC_>,build.sbt is where I put wishes for software that other people wrote
+2014-06-28,03,09,41,<DanC_>,I was having trouble getting IntelliJ to grant such wishes. but it's playing nicely now.
+2014-06-28,03,10,58,<butter>, https://atom.io/packages/autosave looks promising. wonder if anyone's done cord-pull battle-testing on various IDEs
+2014-06-28,03,13,15,<butter>,any opinion on https://github.com/adobe/brackets
+2014-06-28,03,15,55,<DanC_>,"FlashingFire1, tiny little scala program that fetches info from the web: https://github.com/dckc/pada1"
+2014-06-28,03,17,15,<DanC_>,"FlashingFire1, what's that bracket page?"
+2014-06-28,03,17,17,<homo-erotic_lite>,homo-erotic_lite is now known as HomoEroticClint
+2014-06-28,03,43,27,<FlashingFire1>,I think you're referring to challonge
+2014-06-28,03,44,30,<FlashingFire1>,Sample bracket: http://challonge.com/ARLOPMS
+2014-06-28,04,02,11,<FlashingFire1>,For Intellij: Ultimate or Community edition?
+2014-06-28,04,02,18,<FlashingFire1>,DanC
+2014-06-28,04,02,26,<DanC_>,hi
+2014-06-28,04,02,36,<DanC_>,oh...
+2014-06-28,04,02,38,<DanC_>,community
+2014-06-28,04,02,41,<FlashingFire1>,k
+2014-06-28,04,04,51,<DanC_>,* DanC_ installs IntelliJ markdown plugin for project documentation...
+2014-06-28,04,05,18,<DanC_>,. http://plugins.jetbrains.com/plugin/5970?pr=phpStorm
+2014-06-28,04,09,26,<DanC_>,I wonder if we should share a repository or do pull request style. hmm.
+2014-06-28,04,09,57,<DanC_>,KC Royals won!
+2014-06-28,04,10,15,<DanC_>,Sporting KC is playing Portland. I should tell K.
+2014-06-28,04,42,33,<HomoEroticClint>,HomoEroticClint is now known as CaptainHomoeroti
+2014-06-28,04,42,46,<CaptainHomoeroti>,CaptainHomoeroti is now known as Cpt_Homoerotica
+2014-06-28,05,09,00,<Cpt_Homoerotica>,"DanC_, do you know Liam R.E. Quin, the XML activity lead?"
+2014-06-28,05,09,15,<DanC_>,um. sure.
+2014-06-28,05,09,49,<Cpt_Homoerotica>,"DanC_, excellent, you think you can sweet talk him into recording himself saying ""Ohh yes, I'm an incorrigible old quare."" and ""Ohh no, she's very happy for me to quare away like billy-oh."""
+2014-06-28,05,10,49,<DanC_>,"I haven't spoken with him in ages, and I don't have any plans to be in contact with him."
+2014-06-28,05,52,29,<FlashingFire1>,FlashingFire1 has quit
+2014-06-28,05,52,47,<butter>,can it replace IRC ? http://air.csail.mit.edu/punya/we_report_files/architecture.png
+2014-06-28,06,15,26,<dprophit>,dprophit has joined #swig
+2014-06-28,06,15,56,<dprophit>, Would anyone available here like to coach me on schema.org expressing <del> on a price markdown for offer schema?
+2014-06-28,06,33,51,<butter>,"IRC is pretty low-traffic (besides DanC talking to the web - http://www.madmode.com/2014/01-talking-to-the-web.html ) , have you tried public-vocabs@w3 mailinglist?"
+2014-06-28,06,34,01,<butter>,"dbs and danbri do schema.org stuff, but it's not work-hours right now presumably"
+2014-06-28,06,34,51,<dprophit>,thanks butter. Hard to tell which timezone everyone works within =)
+2014-06-28,06,37,37,<butter>, http://lists.w3.org/Archives/Public/public-vocabs/2014Jun/
+2014-06-28,06,37,54,<butter>,i bet google can do site: and train results to that dir (if mailman lacks a search?)
+2014-06-28,06,38,20,<butter>,i donno. im guessing most ppl here are GMT-5 (Cambridge) or London (GMT+1?) mainly
+2014-06-28,06,38,25,<butter>,a few Californias
+2014-06-28,06,38,43,<butter>,i think most ppl moved to twitter. as it's not open-source i'm not terribly interested in thnat..
+2014-06-28,06,39,03,<dprophit>,UK is usually 7 hours ahead of me. it's 2:39A here in EST
+2014-06-28,06,39,15,<butter>,"that adn they have an orthogonal API and API Keys, instead of it being webarch on the main web URIs"
+2014-06-28,06,39,40,<butter>,"anything that has an API site on a seperate domain is suspect - https://encrypted.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB4QFjAA&url=http%3A%2F%2Fruben.verborgh.org%2Fblog%2F2013%2F11%2F29%2Fthe-lie-of-the-api%2F&ei=WmOuU7POBe_gsATStoHQBw&usg=AFQjCNGvpL9ym9l9rsPHZtXDskptogNAnQ&bvm=bv.69837884,d.cWc"
+2014-06-28,06,39,45,<butter>,ugh
+2014-06-28,06,40,52,<butter>,wonder how i can get google to not obfuscate <a>s in resujlts. cookies? Js? sign in?
+2014-06-28,06,41,35,<dprophit>,click the results is usually what I do then share the URL
+2014-06-28,06,41,51,<butter>,butter is now known as dbu
+2014-06-28,06,41,53,<dbu>, http://data.whats-your.name/schema?q=discount
+2014-06-28,06,43,24,<dprophit>,http://schema.org/discount good deal. bad deal =( only used on order schema
+2014-06-28,06,43,25,<dc_swig_>,A: http://schema.org/discount from dprophit
+2014-06-28,06,43,44,<dbu>,hmm?
+2014-06-28,06,44,31,<dbu>,as opposed to a Product schema or so?
+2014-06-28,06,44,57,<dbu>,maybe use it outside the range theyve defined it for ;)
+2014-06-28,06,45,02,<dprophit>,Well I'm reviewing a default template in prestashop. The price is wrapped within an offer schema
+2014-06-28,06,48,38,<dprophit>,http://lists.w3.org/Archives/Public/public-vocabs/2014Jan/0164.html I like this proposal for discount relationship
+2014-06-28,06,48,39,<dc_swig_>,B: http://lists.w3.org/Archives/Public/public-vocabs/2014Jan/0164.html from dprophit
+2014-06-28,06,51,04,<dprophit>,I'm not sure if the HTML5 <del> tag alone would give enough information for semantic relationship
+2014-06-28,06,52,25,<o0o0o>,o0o0o has quit
+2014-06-28,06,52,37,<dbu>,<del> element represents a removal from the document
+2014-06-28,06,53,36,<dprophit>,Correct.
+2014-06-28,06,54,02,<dbu>,<price><del>$24.95</del> $19.95</price> ?
+2014-06-28,06,56,24,<dprophit>,let me pastebin. Hold on
+2014-06-28,06,58,24,<dprophit>,http://pastebin.com/ity0pUYj is the current tagged release version snippet.
+2014-06-28,06,58,25,<dc_swig_>,C: http://pastebin.com/ity0pUYj from dprophit
+2014-06-28,07,00,29,<dprophit>,Line 29 is where I suggested to the project to use the <del> tag and remove CSS linethrough property.
+2014-06-28,07,06,50,<dbu>,yeah del is a good replacement for css linethrough..
+2014-06-28,07,07,10,<dbu>,probably not enough to describe the discounted price unless it's specified/adopted
+2014-06-28,07,07,23,<dbu>,i am not an ontologist...
+2014-06-28,07,11,03,<dbu>,as long as eveyrone buys everything at amazon/ebay/taobao it's just an academic exercise. maybe people would use DDG/google/yandex and start shopping at longtail stores after doing searches?
+2014-06-28,07,11,30,<dbu>,~or emit discount-notices over streaming-GRaph networks.. with filter-pipelines of sale tastemakes etc
+2014-06-28,07,11,49,<dbu>,someting simulating 1980s Canal sT in NYC would be ideal
+2014-06-28,07,12,54,<dprophit>,It IS very difficult for solo's to compete with boxed retail
+2014-06-28,07,13,28,<dbu>,longtail vendors.. become substores on amazon/ebay
+2014-06-28,07,13,43,<dbu>,how do those stores handle metadata from 3rd parties? any schema.org use?
+2014-06-28,07,14,31,<dprophit>,All depends upon the open source ecommerce project. There are amazon API's for merchant feed(s).
+2014-06-28,07,15,43,<dprophit>,"So, therein lies the database abstraction to UX layout(s)"
+2014-06-28,07,17,08,<dprophit>,Ebay has one of the sloppiest API documentation publications. Many go in circles with data that does not reflect current API fucntionality.
+2014-06-28,07,17,19,<dbu>,microformats used oldschool HTML els as muchb as possible for metadata
+2014-06-28,07,17,55,<dbu>,im not sure to what extent schema.org does that. in RDF it's extraordinarily rare you'd dig inside a RDF:HTML/XSD:XMLLiteral to look for something like <del>.
+2014-06-28,07,19,35,<dprophit>,"<del> was the only thing I could think of to markup a slahed price. You may be right that it gives the wrong signal. The price is not removed. It's simply a new price specification. I already checked that schema, too. Might be relevant."
+2014-06-28,07,20,18,<dbu>,"for one, if you're using schema.org as RDF predicates. or in JSON-LD, you might not even have <html5> els available"
+2014-06-28,07,20,31,<dbu>,so you're limiting it to the microdata use-case
+2014-06-28,07,22,15,<dbu>,the boolean 'on sale' flag seems reasonable
+2014-06-28,07,22,24,<dbu>,"how you specify the original price, don't know"
+2014-06-28,07,23,52,<dprophit>,I posted the topic at https://plus.google.com/u/0/+DenverProphitJr/posts/8zfj7Ev94MJ and Dan Brickley CC'd Professor Martin Hepp. *crossing fingers* I sure do want to help the prestashop community on this.
+2014-06-28,07,23,57,<dbu>,"specifying <del>'s usage at a RDFa/Microdata level as somethng like ""This isn't captured into the derived graph, as it's an old value"" when used for rendering diffs/history though"
+2014-06-28,07,25,10,<dbu>,"oh, danbri referred you here"
+2014-06-28,07,25,20,<dbu>,is there a schema.org specific chan?
+2014-06-28,07,25,38,<dbu>,it seems more active of a community than random abandonware schemas i've crawled offprefix.cc's list
+2014-06-28,07,25,40,<dprophit>,First I found the channel via google search. Shared the w3 doc and Dan was the first to respond heh
+2014-06-28,07,26,02,<dbu>,ok. i whoised danja or aaronsw or danc or danbri in #swhack in like 2001. and i saw #rdf-ig. then it changed names sometime
+2014-06-28,07,26,12,<dbu>,"that and swh was using RDF in his LV2 audio plugins and was all ""what's this RDF thig...?"""
+2014-06-28,07,27,05,<dprophit>,"Haven't found a schema.org specific channel, yet. I did find #microformats"
+2014-06-28,07,27,12,<dbu>,in 1999 i worked on some product in sf called INTERSHOP. i thinkj i actually saw it still in use on sonystyle.com like last year
+2014-06-28,07,28,34,<dprophit>,"My experience has been with osCommerce for the last 10 years. They're not very adaptive of structured data, yet. Prestashop holds promise... leading the way. The other leaders zen-cart, opencart, abantecart all do not compare"
+2014-06-28,07,28,53,<dbu>,the GoodRelations pointer is good. BestBuy.com was using RDFa Afaik. maybe Walmart also
+2014-06-28,07,30,01,<dbu>,"Martin Hepp, Joerg Leukel, ... Rent the article at a discount. Rent now"
+2014-06-28,07,30,10,<dprophit>,"I'm on there now. The only ""recipe"" for prestashop led to a commercial open source plugin"
+2014-06-28,07,30,17,<dbu>,"lol @ SpringerLink. time to ""Rent"" an article"
+2014-06-28,07,30,54,<dprophit>,no way! I'd buy a kindle book before I'd ever rent an article. =)
+2014-06-28,07,33,24,<dbu>, http://wiki.goodrelations-vocabulary.org/Cookbook/Pricing#Quantity_Discounts
+2014-06-28,07,34,03,<dprophit>,that would be a different feature. These are sale discounts
+2014-06-28,07,40,22,<jmvanel>,jmvanel has joined #swig
+2014-06-28,07,41,25,<dbu>,more the temporally-valid one below. with the listPrice property..
+2014-06-28,07,41,49,<dbu>,"MArtin Hep dismissed RDF as too-complex or something recentrly, based on a light skim of public-vocabs, so keep an eye out for post-goodrelations work"
+2014-06-28,07,42,13,<dbu>,"in any event it sounds like youve stumbled upon the bleeding-edge, so go ahead and do what you think is best and maybe the cowpaths will be paved?"
+2014-06-28,07,43,05,<dprophit>,Indeed!
+2014-06-28,07,44,15,<MrWoohoo>,MrWoohoo has joined #swig
+2014-06-28,08,05,48,<Shepard>,Shepard has quit
+2014-06-28,08,21,26,<Simpson_2>,Simpson_2 has joined #swig
+2014-06-28,10,19,17,<ktkNA>,ktkNA is now known as ktk
+2014-06-28,10,20,32,<jmvanel>,jmvanel has quit
+2014-06-28,11,41,21,<fr33domlover>,fr33domlover has joined #swig
+2014-06-28,11,55,27,<libby>,libby has joined #swig
+2014-06-28,12,17,30,<Sebastien-L>,Sebastien-L has joined #swig
+2014-06-28,13,36,27,<karlcow>,karlcow has joined #swig
+2014-06-28,13,37,12,<karlcow>,karlcow has quit
+2014-06-28,13,53,17,<dprophit>,dprophit has left #swig
+2014-06-28,14,06,42,<mischat>,mischat has joined #swig
+2014-06-28,14,08,54,<mischat>,mischat has quit
+2014-06-28,14,43,23,<Simpson_2>,Simpson_2 has quit
+2014-06-28,14,45,38,<jmvanel>,jmvanel has joined #swig
+2014-06-28,14,48,42,<Sebastien-L>,Sebastien-L has quit
+2014-06-28,15,45,32,<jmvanel>,jmvanel has quit
+2014-06-28,16,05,40,<ormaaj>,ormaaj has joined #swig
+2014-06-28,16,15,51,<dsheets>,dsheets has joined #swig
+2014-06-28,16,29,10,<mischat>,mischat has joined #swig
+2014-06-28,16,36,24,<libby>,libby has quit
+2014-06-28,16,41,25,<dsheets>,dsheets has quit
+2014-06-28,16,41,48,<dsheets>,dsheets has joined #swig
+2014-06-28,16,46,09,<dsheets_>,dsheets_ has joined #swig
+2014-06-28,16,47,08,<dsheets>,dsheets has quit
+2014-06-28,17,00,07,<libby>,libby has joined #swig
+2014-06-28,17,01,57,<libby>,libby has quit
+2014-06-28,17,30,27,<bblfish>,bblfish has joined #swig
+2014-06-28,17,31,16,<bblfish>,bblfish has quit
+2014-06-28,17,31,26,<bblfish>,bblfish has joined #swig
+2014-06-28,18,09,37,<MrWoohoo>,MrWoohoo has quit
+2014-06-28,18,48,53,<libby>,libby has joined #swig
+2014-06-28,18,51,28,<libby>,libby has quit
+2014-06-28,19,00,25,<mischat>,mischat has quit
+2014-06-28,19,01,33,<mischat>,mischat has joined #swig
+2014-06-28,19,20,53,<dsheets__>,dsheets__ has joined #swig
+2014-06-28,19,23,25,<dsheets_>,dsheets_ has quit
+2014-06-28,19,31,12,<ktk>,ktk is now known as ktkNA
+2014-06-28,19,36,57,<dsheets__>,dsheets__ has quit
+2014-06-28,19,37,22,<dsheets__>,dsheets__ has joined #swig
+2014-06-28,19,38,38,<libby>,libby has joined #swig
+2014-06-28,19,49,13,<dsheets__>,dsheets__ has quit
+2014-06-28,19,49,37,<dsheets__>,dsheets__ has joined #swig
+2014-06-28,19,49,49,<libby>,libby has quit
+2014-06-28,19,56,39,<dsheets__>,dsheets__ has quit
+2014-06-28,19,57,07,<dsheets__>,dsheets__ has joined #swig
+2014-06-28,20,02,06,<G1eb>,G1eb has joined #swig
+2014-06-28,20,02,27,<G1eb>,"hello, are there any SPARQL enthousiasts in the room right now?"
+2014-06-28,20,18,06,<KjetilK>,"G1eb, yeah, but possibly not for long :-)"
+2014-06-28,20,20,06,<G1eb>,"Ah nice! I was wondering. I have a dataset with some triples that have an organization object, such as <http://dbpedia.org/resource/Volkswagen>"
+2014-06-28,20,21,39,<G1eb>,But if I try to specify in my query that all ?organization have to have predicate <http://dbpedia.org/ontology/industry> and object <http://dbpedia.org/resource/Automotive_industry> it returns 0 results.
+2014-06-28,20,22,03,<G1eb>,Is that because that information is not in my dataset eventhough I did define a prefix for the dbpedia ontologies?
+2014-06-28,20,23,11,<G1eb>,I also tried using the service <http://dbpedia.org/sparql> { ?organization ?p ?o } ?a owl:sameAs ?organization approach which did not work either
+2014-06-28,20,53,38,<G1eb>,G1eb has quit
+2014-06-28,21,38,51,<o0o0o>,o0o0o has joined #swig
+2014-06-28,22,09,01,<dsheets__>,dsheets__ has quit
+2014-06-28,22,21,09,<libby>,libby has joined #swig
+2014-06-28,22,35,34,<mischat>,mischat has quit
+2014-06-28,22,38,13,<mischat>,mischat has joined #swig
+2014-06-28,22,49,21,<karlcow>,karlcow has joined #swig
+2014-06-28,23,02,38,<mischat>,mischat has quit
+2014-06-28,23,05,24,<mischat>,mischat has joined #swig
+2014-06-28,23,14,42,<bblfish>,bblfish has quit
+2014-06-28,23,15,08,<bblfish>,bblfish has joined #swig
+2014-06-28,23,16,34,<mischat>,mischat has quit
+2014-06-28,23,17,11,<mischat>,mischat has joined #swig
+2014-06-28,23,19,41,<bblfish>,bblfish has quit
+2014-06-28,23,23,21,<mischat>,mischat has quit
+2014-06-28,23,33,08,<KjetilK>,KjetilK has quit
+2014-06-28,23,43,28,<uranther>,uranther has joined #swig
+2014-06-28,23,50,27,<libby>,libby has quit
+2014-06-27,00,12,26,<FlashingFire>,FlashingFire has quit
+2014-06-27,00,21,26,<FlashingFire>,FlashingFire has joined #swig
+2014-06-27,00,35,56,<FlashingFire>,FlashingFire has quit
+2014-06-27,01,06,34,<ephemerian>,ephemerian has quit
+2014-06-27,01,44,45,<karlcow>,karlcow has joined #swig
+2014-06-27,02,00,15,<aindilis>,aindilis has quit
+2014-06-27,02,10,46,<FlashingFire>,FlashingFire has joined #swig
+2014-06-27,02,24,04,<karlcow>,karlcow has quit
+2014-06-27,03,02,00,<fallista_kahvia>,fallista_kahvia is now known as Kafka_the_phalli
+2014-06-27,03,20,27,<Kafka_the_phalli>,Kafka_the_phalli is now known as Phahla-
+2014-06-27,04,16,19,<FlashingFire>,FlashingFire has quit
+2014-06-27,04,30,34,<karlcow>,karlcow has joined #swig
+2014-06-27,04,38,26,<butter>, org.w3.ldp.testsuite.reporter.LdpEarlReporter@823618 failed: null for literals has been illegal since Jena 2.0
+2014-06-27,04,40,04,<Pipian>,Pipian has joined #swig
+2014-06-27,04,44,39,<sivoais_>,sivoais_ is now known as sivoais
+2014-06-27,04,44,42,<sivoais>,sivoais has quit
+2014-06-27,04,44,42,<sivoais>,sivoais has joined #swig
+2014-06-27,04,50,07,<FlashingFire>,FlashingFire has joined #swig
+2014-06-27,05,40,42,<FlashingFire>,FlashingFire has quit
+2014-06-27,06,29,52,<Pipian>,Pipian has quit
+2014-06-27,06,59,44,<libby>,libby has joined #swig
+2014-06-27,07,12,08,<stefan-_>,stefan-_ has joined #swig
+2014-06-27,07,12,32,<ephemerian>,ephemerian has joined #swig
+2014-06-27,07,18,48,<libby>,libby has quit
+2014-06-27,07,23,18,<SimpsonTP>,SimpsonTP has joined #swig
+2014-06-27,07,28,11,<Simpson_2>,Simpson_2 has joined #swig
+2014-06-27,07,34,22,<mus1cb0x>,mus1cb0x has joined #swig
+2014-06-27,07,34,54,<mus1cb0x>,hi is there a chan for swig js template engine?
+2014-06-27,07,42,06,<G1eb>,this is Semantic Web Interest Group
+2014-06-27,07,42,34,<G1eb>,wrong channel mate ;)
+2014-06-27,07,42,57,<G1eb>,try asking in #express
+2014-06-27,07,48,14,<MrWoohoo>,MrWoohoo has joined #swig
+2014-06-27,07,50,03,<ktkNA>,ktkNA is now known as ktk
+2014-06-27,07,51,27,<mischat>,mischat has joined #swig
+2014-06-27,08,05,42,<libby>,libby has joined #swig
+2014-06-27,08,10,26,<libby>,libby has quit
+2014-06-27,08,11,14,<Simpson_2>,Simpson_2 has quit
+2014-06-27,08,17,17,<Simpson_2>,Simpson_2 has joined #swig
+2014-06-27,08,25,08,<SimpsonTP>,SimpsonTP has quit
+2014-06-27,08,39,41,<libby>,libby has joined #swig
+2014-06-27,08,48,55,<rom1504>,rom1504 has joined #swig
+2014-06-27,08,51,25,<Phahla->,Phahla- is now known as Lord_Protector
+2014-06-27,09,05,08,<Lord_Protector>,Lord_Protector is now known as Qaf_Malkon
+2014-06-27,09,42,01,<Qaf_Malkon>,Qaf_Malkon is now known as homo-erotic_lite
+2014-06-27,09,43,56,<libby>,libby has quit
+2014-06-27,09,47,22,<ldodds>,ldodds has joined #swig
+2014-06-27,09,50,58,<beauvais>,beauvais has joined #swig
+2014-06-27,09,51,08,<beauvais>,beauvais has quit
+2014-06-27,10,19,20,<dsheets>,dsheets has joined #swig
+2014-06-27,10,20,42,<stefan-_>,stefan-_ has quit
+2014-06-27,10,33,53,<stefan-_>,stefan-_ has joined #swig
+2014-06-27,10,36,59,<ldodds>,ldodds has quit
+2014-06-27,10,37,10,<ldodds>,ldodds has joined #swig
+2014-06-27,10,40,59,<ldodds>,ldodds has quit
+2014-06-27,10,41,04,<ldodds1>,ldodds1 has joined #swig
+2014-06-27,10,57,23,<Simpson_2>,Simpson_2 has quit
+2014-06-27,11,47,29,<ldodds1>,ldodds1 has left #swig
+2014-06-27,12,10,22,<libby>,libby has joined #swig
+2014-06-27,12,13,27,<libby>,libby has quit
+2014-06-27,12,14,33,<mischat>,mischat has quit
+2014-06-27,12,27,30,<Anchakor_>,Anchakor_ has quit
+2014-06-27,12,28,53,<danbri1>,danbri1 has joined #swig
+2014-06-27,12,32,18,<stefan-_>,stefan-_ has quit
+2014-06-27,12,37,33,<olivd>,olivd has joined #swig
+2014-06-27,12,49,04,<stefan-_>,stefan-_ has joined #swig
+2014-06-27,12,49,09,<mischat>,mischat has joined #swig
+2014-06-27,13,02,47,<Anchakor_>,Anchakor_ has joined #swig
+2014-06-27,13,09,39,<mischat>,mischat has quit
+2014-06-27,13,09,49,<mischat_>,mischat_ has joined #swig
+2014-06-27,13,11,39,<Sebastien-L>,Sebastien-L has joined #swig
+2014-06-27,13,31,22,<olivd1>,olivd1 has joined #swig
+2014-06-27,13,33,27,<olivd>,olivd has quit
+2014-06-27,13,36,31,<TallTed>,TallTed has joined #swig
+2014-06-27,13,55,36,<Pipian>,Pipian has joined #swig
+2014-06-27,14,13,00,<mischat>,mischat has joined #swig
+2014-06-27,14,14,44,<mischat_>,mischat_ has quit
+2014-06-27,14,17,03,<dmiles>,dmiles has quit
+2014-06-27,14,17,16,<Pipian>,Pipian has quit
+2014-06-27,14,17,53,<dmiles_afk>,dmiles_afk has joined #swig
+2014-06-27,14,40,51,<Pipian>,Pipian has joined #swig
+2014-06-27,14,43,48,<SimpsonTP>,SimpsonTP has joined #swig
+2014-06-27,14,55,20,<Anchakor_>,Anchakor_ has quit
+2014-06-27,14,56,42,<Sebastien-L>,Sebastien-L has quit
+2014-06-27,15,23,17,<Pipian>,Pipian has quit
+2014-06-27,15,27,17,<Pipian>,Pipian has joined #swig
+2014-06-27,15,42,32,<SimpsonTP>,SimpsonTP has quit
+2014-06-27,15,45,02,<Sebastien-L>,Sebastien-L has joined #swig
+2014-06-27,15,45,03,<Pipian>,Pipian has quit
+2014-06-27,15,46,00,<stefan-_>,stefan-_ has quit
+2014-06-27,15,47,08,<karlcow>,karlcow has quit
+2014-06-27,15,48,03,<Pipian>,Pipian has joined #swig
+2014-06-27,15,48,41,<karlcow>,karlcow has joined #swig
+2014-06-27,15,50,27,<olivd>,olivd has joined #swig
+2014-06-27,15,50,43,<olivd1>,olivd1 has quit
+2014-06-27,16,20,49,<ephemerian>,ephemerian has left #swig
+2014-06-27,16,21,57,<mischat>,mischat has quit
+2014-06-27,16,24,15,<mischat>,mischat has joined #swig
+2014-06-27,17,16,13,<ormaaj>,ormaaj has quit
+2014-06-27,17,20,45,<Sebastien-L>,Sebastien-L has quit
+2014-06-27,17,29,31,<olivd1>,olivd1 has joined #swig
+2014-06-27,17,29,35,<olivd>,olivd has quit
+2014-06-27,17,30,42,<olivd1>,olivd1 has quit
+2014-06-27,17,37,39,<dsheets>,dsheets has quit
+2014-06-27,17,42,25,<sesuncedu>,sesuncedu has joined #swig
+2014-06-27,17,44,15,<mischat>,mischat has quit
+2014-06-27,17,49,47,<deiu>,deiu has joined #swig
+2014-06-27,18,04,32,<deiu>,deiu has quit
+2014-06-27,18,05,58,<deiu>,deiu has joined #swig
+2014-06-27,18,17,12,<betehess>,betehess has left #swig
+2014-06-27,18,29,31,<stefan-_>,stefan-_ has joined #swig
+2014-06-27,18,37,29,<ktk>,ktk is now known as ktkNA
+2014-06-27,18,41,08,<danbri1>,danbri1 has quit
+2014-06-27,18,41,30,<danbri1>,danbri1 has joined #swig
+2014-06-27,19,00,28,<deiu>,deiu has quit
+2014-06-27,19,03,10,<Simpson_2>,Simpson_2 has joined #swig
+2014-06-27,19,39,12,<eelseth-stdin>,eelseth-stdin has joined #swig
+2014-06-27,19,42,41,<eelseth-stdout>,eelseth-stdout has quit
+2014-06-27,19,42,41,<Shepard>,Shepard has quit
+2014-06-27,19,42,54,<Shepard>,Shepard has joined #swig
+2014-06-27,19,49,39,<stefan-_>,stefan-_ has quit
+2014-06-27,20,33,43,<Simpson_2>,Simpson_2 has quit
+2014-06-27,20,34,01,<Simpson_2>,Simpson_2 has joined #swig
+2014-06-27,20,34,22,<Simpson_2>,Simpson_2 has quit
+2014-06-27,20,47,31,<dbs_>,dbs_ has joined #swig
+2014-06-27,20,51,57,<dbs>,dbs has quit
+2014-06-27,21,02,31,<TallTed>,TallTed has quit
+2014-06-27,21,11,23,<G1eb>,G1eb has quit
+2014-06-27,21,11,24,<G1eb>,G1eb has joined #swig
+2014-06-27,21,11,38,<G1eb>,G1eb has quit
+2014-06-27,21,11,38,<G1eb>,G1eb has joined #swig
+2014-06-27,21,19,41,<FlashingFire>,FlashingFire has joined #swig
+2014-06-27,21,22,55,<FlashingFire1>,FlashingFire1 has joined #swig
+2014-06-27,21,26,56,<stain_>,stain_ has joined #swig
+2014-06-27,21,31,10,<FlashingFire>,FlashingFire has quit
+2014-06-27,21,31,10,<G1eb>,G1eb has quit
+2014-06-27,21,31,12,<stain>,stain has quit
+2014-06-27,21,31,15,<nevali>,nevali has quit
+2014-06-27,21,42,07,<nevali>,nevali has joined #swig
+2014-06-27,21,54,31,<melvster>,melvster has quit
+2014-06-27,21,54,52,<melvster>,melvster has joined #swig
+2014-06-27,23,21,24,<uranther>,uranther has quit
+2014-06-27,23,22,06,<danbri1>,danbri1 has quit
+2014-06-26,00,13,35,<SiskosBaldHead>,"ormaaj, are you there?"
+2014-06-26,00,24,02,<fr33domlover>,fr33domlover has quit
+2014-06-26,00,26,31,<ormaaj>,yes
+2014-06-26,00,26,56,<FlashingFire>,FlashingFire has joined #swig
+2014-06-26,00,31,48,<mischat>,mischat has quit
+2014-06-26,01,10,38,<FlashingFire>,FlashingFire has quit
+2014-06-26,01,16,53,<FlashingFire>,FlashingFire has joined #swig
+2014-06-26,01,38,41,<danbri>,danbri has quit
+2014-06-26,02,07,55,<karlcow>,karlcow has joined #swig
+2014-06-26,02,08,07,<dbu>,dbu has quit
+2014-06-26,02,09,05,<dbu>,dbu has joined #swig
+2014-06-26,03,13,53,<DanC_>,DanC_ has joined #swig
+2014-06-26,03,18,44,<dbu>,w $GOPATH/bin/server  -bind=localhost:3000 -debug=true -vhosts=true 2014/06/26 03:16:48 http: TLS handshake error from 127.0.0.1:45964: tls: failed to parse client certificate: x509: unhandled critical extension
+2014-06-26,03,23,00,<dbu>,what is preferred way to bypass 404. post an empty Turtle doc?
+2014-06-26,03,25,37,<Pipian>,Pipian has joined #swig
+2014-06-26,03,32,28,<FlashingFire>,FlashingFire has quit
+2014-06-26,03,46,25,<FlashingFire>,FlashingFire has joined #swig
+2014-06-26,03,55,05,<dbu>,* dbu wonders if he created https://id.data.fm/anonymous# or cert magically appeared in-browser via some server-initiated issuing (?) - decides not to question it for nwo
+2014-06-26,03,58,09,<DanC_>,* DanC_ waves to FlashingFire
+2014-06-26,03,58,29,<FlashingFire>,qwerty test
+2014-06-26,04,18,44,<dbu>, http://fenron.net/~fenner/ietf/deps/viz/httpbis.pdf
+2014-06-26,04,22,23,<dbu>,did you NICE your complex SPARQL? http://tools.ietf.org/html/draft-thomson-http-nice-01
+2014-06-26,04,22,35,<FlashingFire>,FlashingFire has quit
+2014-06-26,04,31,19,<danbri>,danbri has joined #swig
+2014-06-26,04,35,48,<danbri>,danbri has quit
+2014-06-26,04,39,41,<SiskosBaldHead>,"ormaaj, excellent"
+2014-06-26,04,39,54,<SiskosBaldHead>,"do you know Liam R.E. Quin, the W3C XML activity lead?"
+2014-06-26,04,49,21,<MrWoohoo>,MrWoohoo has quit
+2014-06-26,05,40,29,<dbu>, http://streamreasoning.org/slides/2014/05/rsp2014-01-rsp-models.pdf
+2014-06-26,05,45,48,<SiskosBaldHead>,SiskosBaldHead is now known as German_Lederhose
+2014-06-26,05,58,09,<dbu>,dbu has quit
+2014-06-26,05,59,14,<dbu>,dbu has joined #swig
+2014-06-26,06,14,21,<eelseth-stdin>,eelseth-stdin has quit
+2014-06-26,06,14,42,<eelseth-stdin>,eelseth-stdin has joined #swig
+2014-06-26,06,14,59,<eelseth-stdin>,eelseth-stdin has quit
+2014-06-26,06,19,22,<balor>,balor has joined #swig
+2014-06-26,06,24,16,<balor>,balor has quit
+2014-06-26,06,24,20,<libby>,libby has joined #swig
+2014-06-26,06,25,04,<wikier>,wikier has joined #swig
+2014-06-26,06,26,50,<eelseth-stdout>,eelseth-stdout has joined #swig
+2014-06-26,06,37,35,<mischat>,mischat has joined #swig
+2014-06-26,06,45,22,<bblfish>,bblfish has joined #swig
+2014-06-26,06,47,33,<chrysn>,"i'm just working with tabulator / rdflib.js' proxying support (CORS circumvention), and stumbled upon a modification from httpbis which means content-location isn't base-uri any more."
+2014-06-26,06,48,11,<chrysn>,can you think of something easy we can do there to avoid that the proxy needs to inspect what it is proxying and rewrite absolute uris?
+2014-06-26,06,49,31,<German_Lederhose>,German_Lederhose is now known as fallista_kahvia
+2014-06-26,06,53,30,<Pipian>,Pipian has quit
+2014-06-26,06,59,02,<drrho>,drrho has quit
+2014-06-26,07,04,52,<danbri>,danbri has joined #swig
+2014-06-26,07,12,22,<ephemerian>,ephemerian has joined #swig
+2014-06-26,07,12,47,<drrho>,drrho has joined #swig
+2014-06-26,07,35,09,<danbri>,danbri has quit
+2014-06-26,07,40,49,<Sebastien-L>,Sebastien-L has joined #swig
+2014-06-26,07,41,45,<fr33domlover>,fr33domlover has joined #swig
+2014-06-26,07,41,58,<Sebastien-L>,Sebastien-L has quit
+2014-06-26,08,08,31,<stefan-_>,stefan-_ has joined #swig
+2014-06-26,08,23,23,<stefan-_>,stefan-_ has quit
+2014-06-26,08,24,15,<MrWoohoo>,MrWoohoo has joined #swig
+2014-06-26,08,26,08,<stefan-_>,stefan-_ has joined #swig
+2014-06-26,08,26,17,<beauvais>,beauvais has joined #swig
+2014-06-26,08,44,04,<karlcow>,karlcow has quit
+2014-06-26,08,51,26,<MrWoohoo>,MrWoohoo has quit
+2014-06-26,08,51,53,<MrWoohoo>,MrWoohoo has joined #swig
+2014-06-26,08,55,01,<KjetilK>,KjetilK has quit
+2014-06-26,08,58,37,<bblfish>,bblfish has quit
+2014-06-26,08,59,09,<bblfish>,bblfish has joined #swig
+2014-06-26,09,00,14,<olivd>,olivd has joined #swig
+2014-06-26,09,03,32,<bblfish>,bblfish has quit
+2014-06-26,09,05,28,<mischat>,mischat has quit
+2014-06-26,09,11,04,<dbu>,mozilla making stream query-languages now? http://hekad.readthedocs.org/en/latest/message_matcher.html#message-matcher
+2014-06-26,09,11,50,<bblfish>,bblfish has joined #swig
+2014-06-26,09,14,50,<shellac>,shellac has joined #swig
+2014-06-26,10,08,31,<KjetilK>,KjetilK has joined #swig
+2014-06-26,10,17,16,<olivd>,olivd has quit
+2014-06-26,10,24,24,<mischat>,mischat has joined #swig
+2014-06-26,10,30,45,<shellac>,shellac has quit
+2014-06-26,10,32,25,<bblfish>,bblfish has quit
+2014-06-26,11,14,46,<beauvais>,beauvais has quit
+2014-06-26,11,46,40,<danbri>,danbri has joined #swig
+2014-06-26,11,50,49,<shellac>,shellac has joined #swig
+2014-06-26,12,00,45,<beauvais>,beauvais has joined #swig
+2014-06-26,12,23,12,<SimpsonTP>,SimpsonTP has joined #swig
+2014-06-26,12,23,23,<stefan-_>,stefan-_ has quit
+2014-06-26,12,41,42,<stefan-_>,stefan-_ has joined #swig
+2014-06-26,13,25,02,<Sebastien-L>,Sebastien-L has joined #swig
+2014-06-26,13,31,09,<deiu>,deiu has joined #swig
+2014-06-26,13,31,10,<deiu>,deiu has quit
+2014-06-26,13,31,10,<deiu>,deiu has joined #swig
+2014-06-26,13,32,05,<deiu>,deiu has quit
+2014-06-26,13,32,30,<TallTed>,TallTed has joined #swig
+2014-06-26,13,32,35,<deiu>,deiu has joined #swig
+2014-06-26,13,32,35,<deiu>,deiu has quit
+2014-06-26,13,32,35,<deiu>,deiu has joined #swig
+2014-06-26,13,57,14,<dsheets>,dsheets has joined #swig
+2014-06-26,14,04,05,<Pipian>,Pipian has joined #swig
+2014-06-26,14,28,17,<Pipian>,Pipian has quit
+2014-06-26,14,29,02,<stetho>,stetho has joined #swig
+2014-06-26,14,39,56,<jorn>,jorn has joined #swig
+2014-06-26,14,49,19,<shellac>,shellac has quit
+2014-06-26,14,56,59,<stefan-_>,stefan-_ has quit
+2014-06-26,14,57,53,<wikier>,wikier has quit
+2014-06-26,15,14,29,<Pipian>,Pipian has joined #swig
+2014-06-26,15,26,17,<Pipian>,Pipian has quit
+2014-06-26,15,31,29,<Pipian>,Pipian has joined #swig
+2014-06-26,15,33,12,<deiu>,deiu has quit
+2014-06-26,15,50,41,<Pipian>,Pipian has quit
+2014-06-26,15,54,48,<deiu>,deiu has joined #swig
+2014-06-26,15,57,06,<jorn>,jorn has quit
+2014-06-26,16,07,51,<stefan-_>,stefan-_ has joined #swig
+2014-06-26,16,08,26,<FlashingFire>,FlashingFire has joined #swig
+2014-06-26,16,14,06,<beauvais>,beauvais has quit
+2014-06-26,16,16,23,<steeve>,steeve has joined #swig
+2014-06-26,16,16,45,<steeve>,steeve has left #swig
+2014-06-26,16,17,55,<dsheets>,dsheets has quit
+2014-06-26,16,22,53,<FlashingFire>,DanC
+2014-06-26,16,23,32,<stefan-_>,stefan-_ has quit
+2014-06-26,16,29,31,<DanC>,ah! hi FlashingFire
+2014-06-26,16,29,40,<DanC>,hope I didn't miss you
+2014-06-26,16,30,17,<DanC>,I was thinking of project ideas...
+2014-06-26,16,31,43,<DanC>,http://izbicki.me/blog/the-categorical-distributions-algebraic-structure
+2014-06-26,16,31,44,<dc_swig_>,A: http://izbicki.me/blog/the-categorical-distributions-algebraic-structure from DanC
+2014-06-26,16,31,50,<DanC>,A:|The categorical distribution’s algebraic structure
+2014-06-26,16,31,51,<dc_swig_>,Titled item A.
+2014-06-26,16,32,40,<DanC>,"A:January 8, 2013 by Mike Izbicki"
+2014-06-26,16,32,41,<dc_swig_>,Added comment A1.
+2014-06-26,16,32,59,<DanC>,"A:on HLearn, some nifty-looking haskell code for machine learning"
+2014-06-26,16,33,00,<dc_swig_>,Added comment A2.
+2014-06-26,16,33,07,<DanC>,http://badassjs.com/post/41708259332/teoria-a-javascript-music-theory-library-for-working
+2014-06-26,16,33,08,<dc_swig_>,B: http://badassjs.com/post/41708259332/teoria-a-javascript-music-theory-library-for-working from DanC
+2014-06-26,16,33,16,<DanC>,"B:|Teoria: A JavaScript Music Theory Library for Working With Notes, Chords, and More"
+2014-06-26,16,33,17,<dc_swig_>,Titled item B.
+2014-06-26,16,34,51,<FlashingFire>,"Weird, I didn't have any notifications"
+2014-06-26,16,34,53,<FlashingFire>,anyway
+2014-06-26,16,35,12,<DanC>,oh... yeah...
+2014-06-26,16,35,24,<DanC>,pidgin doesn't notify you unless you enable some plugin...
+2014-06-26,16,35,28,<FlashingFire>,oh
+2014-06-26,16,35,56,<DanC>," enable the ""notification"" plug-in"
+2014-06-26,16,36,54,<FlashingFire>,type something
+2014-06-26,16,37,00,<DanC>,something
+2014-06-26,16,37,06,<DanC>,more likely: something about FlashingFire
+2014-06-26,16,37,12,<FlashingFire>,hm
+2014-06-26,16,37,24,<DanC>,"you have to configure it too, I think"
+2014-06-26,16,38,14,<FlashingFire>,try again
+2014-06-26,16,38,23,<DanC>,something else about FlashingFire
+2014-06-26,16,38,33,<DanC>,you might not get a notification unless the window is hidden
+2014-06-26,16,38,42,<DanC>,"(well, depending on configuration)"
+2014-06-26,16,39,13,<FlashingFire>,Oh well. I'll figure it out later.
+2014-06-26,16,39,22,<DanC>,ok
+2014-06-26,16,39,38,<DanC>,Justin and I got it working. anyway...
+2014-06-26,16,40,03,<DanC>,http://badassjs.com/post/40263157904/vexflow-a-music-notation-language-and-renderer-for-the
+2014-06-26,16,40,04,<dc_swig_>,C: http://badassjs.com/post/40263157904/vexflow-a-music-notation-language-and-renderer-for-the from DanC
+2014-06-26,16,40,11,<DanC>,C:|VexFlow: A Music Notation Language and Renderer for the Web
+2014-06-26,16,40,12,<dc_swig_>,Titled item C.
+2014-06-26,16,40,32,<DanC>,"FlashingFire, check out http://swig.planetrdf.com/"
+2014-06-26,16,42,28,<FlashingFire>,so...what's the purpose of sharing these links? Something to learn/do?
+2014-06-26,16,42,38,<DanC>,brainstorming on project ideas
+2014-06-26,16,42,41,<DanC>,earlier idea:
+2014-06-26,16,42,42,<DanC>,https://code.google.com/p/joe-e/
+2014-06-26,16,42,43,<dc_swig_>,D: https://code.google.com/p/joe-e/ from DanC
+2014-06-26,16,42,56,<DanC>,D:|Joe-E: Capability-secure subset of Java
+2014-06-26,16,42,57,<dc_swig_>,Titled item D.
+2014-06-26,16,44,18,<DanC>,* DanC discovers a #haskell-gaming channel
+2014-06-26,16,44,25,<DanC>,er... #haskell-game
+2014-06-26,16,50,36,<deiu>,deiu has quit
+2014-06-26,17,28,45,<danbri>,danbri has quit
+2014-06-26,17,33,27,<deiu>,deiu has joined #swig
+2014-06-26,17,34,01,<libby>,libby has quit
+2014-06-26,17,45,24,<mischat>,mischat has quit
+2014-06-26,18,01,16,<beauvais>,beauvais has joined #swig
+2014-06-26,18,24,02,<Sebastien-L>,Sebastien-L has quit
+2014-06-26,18,26,02,<FlashingFire>,FlashingFire has quit
+2014-06-26,18,44,32,<tomaw>,[Global Notice] Hi all. I'm going to reroute a hub and then restart a client server for a few updates. It'll be noisy but should be brief!
+2014-06-26,18,44,52,<dbu>,dbu has quit
+2014-06-26,18,44,52,<ormaaj>,ormaaj has quit
+2014-06-26,18,44,53,<dmiles>,dmiles has quit
+2014-06-26,18,44,53,<sivoais>,sivoais has quit
+2014-06-26,18,44,53,<betehess>,betehess has quit
+2014-06-26,18,44,53,<renoirb>,renoirb has quit
+2014-06-26,18,44,54,<iv_an_ru_>,iv_an_ru_ has quit
+2014-06-26,18,44,55,<monkeyiq>,monkeyiq has quit
+2014-06-26,18,44,56,<TallTed>,TallTed has quit
+2014-06-26,18,44,56,<KjetilK>,KjetilK has quit
+2014-06-26,18,44,56,<ephemerian>,ephemerian has quit
+2014-06-26,18,44,57,<o0o0o>,o0o0o has quit
+2014-06-26,18,44,59,<AAA_awright>,AAA_awright has quit
+2014-06-26,18,44,59,<monokrome>,monokrome has quit
+2014-06-26,18,44,59,<jbalnit>,jbalnit has quit
+2014-06-26,18,45,01,<G1eb>,G1eb has quit
+2014-06-26,18,45,04,<nevali>,nevali has quit
+2014-06-26,18,45,49,<TallTed>,TallTed has joined #swig
+2014-06-26,18,45,49,<KjetilK>,KjetilK has joined #swig
+2014-06-26,18,45,49,<ephemerian>,ephemerian has joined #swig
+2014-06-26,18,45,49,<dbu>,dbu has joined #swig
+2014-06-26,18,45,49,<ormaaj>,ormaaj has joined #swig
+2014-06-26,18,45,49,<o0o0o>,o0o0o has joined #swig
+2014-06-26,18,45,49,<dmiles>,dmiles has joined #swig
+2014-06-26,18,45,49,<sivoais>,sivoais has joined #swig
+2014-06-26,18,45,49,<betehess>,betehess has joined #swig
+2014-06-26,18,45,49,<G1eb>,G1eb has joined #swig
+2014-06-26,18,45,49,<renoirb>,renoirb has joined #swig
+2014-06-26,18,45,49,<AAA_awright>,AAA_awright has joined #swig
+2014-06-26,18,45,49,<monokrome>,monokrome has joined #swig
+2014-06-26,18,45,49,<iv_an_ru_>,iv_an_ru_ has joined #swig
+2014-06-26,18,45,49,<monkeyiq>,monkeyiq has joined #swig
+2014-06-26,18,45,49,<jbalnit>,jbalnit has joined #swig
+2014-06-26,18,45,49,<nevali>,nevali has joined #swig
+2014-06-26,18,45,57,<monokrome>,monokrome has quit
+2014-06-26,18,47,14,<simeoni>,simeoni has quit
+2014-06-26,18,47,14,<Anchakor>,Anchakor has quit
+2014-06-26,18,47,14,<gurke>,gurke has quit
+2014-06-26,18,47,14,<rom1504>,rom1504 has quit
+2014-06-26,18,47,15,<ktkNA>,ktkNA has quit
+2014-06-26,18,47,15,<oddmunds>,oddmunds has quit
+2014-06-26,18,47,15,<stain>,stain has quit
+2014-06-26,18,47,16,<edsu>,edsu has quit
+2014-06-26,18,47,16,<Yudai___>,Yudai___ has quit
+2014-06-26,18,47,22,<ktkNA>,ktkNA has joined #swig
+2014-06-26,18,47,22,<edsu>,edsu has joined #swig
+2014-06-26,18,47,22,<edsu>,edsu has quit
+2014-06-26,18,47,22,<edsu>,edsu has joined #swig
+2014-06-26,18,47,24,<Anchakor>,Anchakor has joined #swig
+2014-06-26,18,47,25,<rom1504>,rom1504 has joined #swig
+2014-06-26,18,47,28,<simeoni>,simeoni has joined #swig
+2014-06-26,18,47,28,<gurke>,gurke has joined #swig
+2014-06-26,18,47,28,<gurke>,gurke has quit
+2014-06-26,18,47,28,<gurke>,gurke has joined #swig
+2014-06-26,18,47,30,<stain>,stain has joined #swig
+2014-06-26,18,47,52,<oddmunds>,oddmunds has joined #swig
+2014-06-26,18,48,53,<monokrome>,monokrome has joined #swig
+2014-06-26,18,50,06,<Yudai___>,Yudai___ has joined #swig
+2014-06-26,18,50,35,<sivoais_>,sivoais_ has joined #swig
+2014-06-26,18,50,36,<butter>,butter has joined #swig
+2014-06-26,18,52,12,<rom1504>,rom1504 has quit
+2014-06-26,18,55,56,<dbu>,dbu has quit
+2014-06-26,18,55,56,<ormaaj>,ormaaj has quit
+2014-06-26,18,55,57,<dmiles>,dmiles has quit
+2014-06-26,18,55,57,<sivoais>,sivoais has quit
+2014-06-26,18,55,57,<betehess>,betehess has quit
+2014-06-26,18,55,58,<renoirb>,renoirb has quit
+2014-06-26,18,55,59,<iv_an_ru_>,iv_an_ru_ has quit
+2014-06-26,18,55,59,<monkeyiq>,monkeyiq has quit
+2014-06-26,18,58,27,<renoirb>,renoirb has joined #swig
+2014-06-26,18,58,42,<betehess>,betehess has joined #swig
+2014-06-26,19,18,05,<ormaaj>,ormaaj has joined #swig
+2014-06-26,19,18,05,<dmiles>,dmiles has joined #swig
+2014-06-26,19,18,05,<iv_an_ru_>,iv_an_ru_ has joined #swig
+2014-06-26,19,18,05,<monkeyiq>,monkeyiq has joined #swig
+2014-06-26,20,15,42,<karlcow>,karlcow has joined #swig
+2014-06-26,20,43,28,<MrWoohoo>,MrWoohoo has quit
+2014-06-26,20,59,19,<TallTed>,TallTed has quit
+2014-06-26,21,09,47,<beauvais>,beauvais has quit
+2014-06-26,21,10,47,<fr33domlover>,fr33domlover has quit
+2014-06-26,21,11,36,<fr33domlover>,fr33domlover has joined #swig
+2014-06-26,21,44,29,<deiu>,deiu has quit
+2014-06-26,21,45,27,<stefan-_>,stefan-_ has joined #swig
+2014-06-26,21,54,28,<stefan-_>,stefan-_ has quit
+2014-06-26,22,20,25,<SimpsonTP>,SimpsonTP has quit
+2014-06-26,22,20,46,<SimpsonTP>,SimpsonTP has joined #swig
+2014-06-26,22,39,24,<fr33domlover>,fr33domlover has quit
+2014-06-26,22,50,41,<libby>,libby has joined #swig
+2014-06-26,22,55,26,<SimpsonTP>,SimpsonTP has quit
+2014-06-26,23,00,58,<libby>,libby has quit
+2014-06-26,23,10,10,<FlashingFire>,FlashingFire has joined #swig
+2014-06-26,23,31,05,<karlcow>,karlcow has quit
